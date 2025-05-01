@@ -1,6 +1,6 @@
 # 🎬 Blockbuster Hunt
 
-**Blockbuster Hunt** is a **movie-themed online treasure hunt** game developed using **Flutter** and powered by **Firebase**. Created as part of **Tantra '24**, the tech fest of [Your College Name], the game combines pop-culture trivia, puzzles, and real-time gameplay for an unforgettable experience.
+**Blockbuster Hunt** is a **movie-themed online treasure hunt** game developed using **Flutter** and powered by **Firebase**. Created as part of **Tantra '24**, the tech fest of Vimal Jyothi Engineering College, the game combines pop-culture trivia, puzzles, and real-time gameplay for an unforgettable experience.
 
 
 
@@ -44,5 +44,5 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/blockbuster-hunt.git
+   git clone https://github.com/alatjoseph/Blockbuster_hunt.git
    cd blockbuster-hunt
