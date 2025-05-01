@@ -15,7 +15,7 @@
   Smooth navigation and instant progress tracking using Firebase’s real-time database.
 
 - 🧠 **Diverse Puzzle Types**  
-  Includes multiple-choice questions, image-based riddles, and cryptic movie hints.
+  Includes image-based riddles and cryptic movie hints.
 
 - 📈 **Live Leaderboard**  
   Tracks user scores and ranks them dynamically based on their performance.
